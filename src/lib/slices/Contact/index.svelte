@@ -4,7 +4,6 @@
 	import { PrismicRichText, PrismicImage } from '@prismicio/svelte';
 	import { onMount } from 'svelte';
 	import { gsap } from 'gsap';
-	import '/ayenwebsite/src/app.css';
 
 	export let slice: Content.ContactSlice;
 
