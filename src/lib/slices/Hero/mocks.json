@@ -1,0 +1,24 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"first_name": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "Ayen"
+			},
+			"last_name": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "Monasha"
+			},
+			"tag_line": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "Finance Student"
+			}
+		},
+		"items": []
+	}
+]
